@@ -13,7 +13,20 @@ I‘m AI learner from zero knowledge. So I collect which I studied and make them
 
 I hope you can study AI from zero as me.
 
-### N01 AI, MNIST and Azure Machine Learning
-    Please run N01.ipynb after importing.
+### AI, MNIST and Neutrual Network
+    Please run N01-1.ipynb.
 
-### 
+### Azure Machine Learning Studio
+    Please run N01-2.ipynb
+
+### More Neutrual Network
+    In progress...
+
+### Azure Cognitive Service - Computer Vision
+    Please run N02-1.ipynb.
+
+### Azure Cognitive Service - Face
+    Please run N02-2.ipynb.
+
+### Azure Cognitive Service - Emotion
+    In process...
