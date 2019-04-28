@@ -28,5 +28,4 @@ I hope you can study AI from zero as me.
 ### Azure Cognitive Service - Face
     Please run N02-2.ipynb.
 
-### Azure Cognitive Service - Emotion
     In process...
