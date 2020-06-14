@@ -1,11 +1,5 @@
 
 .DS_Store
-N01/.ipynb_checkpoints/N01-1-checkpoint.ipynb
-N01/.ipynb_checkpoints/N01-2-checkpoint.ipynb
-N01/.ipynb_checkpoints/N01-checkpoint.ipynb
-N01/.ipynb_checkpoints/Untitled-checkpoint.ipynb
-N02/.ipynb_checkpoints/N02-1-checkpoint.ipynb
-N02/.ipynb_checkpoints/Untitled-checkpoint.ipynb
-N02/.ipynb_checkpoints/VisionAPI-checkpoint.ipynb
-.DS_Store
+N01/.ipynb_checkpoints/*.ipynb
+N02/.ipynb_checkpoints/*.ipynb
 .DS_Store
