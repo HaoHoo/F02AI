@@ -14,10 +14,13 @@ I‘m AI learner from zero knowledge. So I collect which I studied and make them
 I hope you can study AI from zero as me.
 
 ### AI, MNIST and Neutrual Network
-    Please run N01-1.ipynb.
+    Please run N01-01-MNIST-Basic.ipynb.
 
 ### Azure Machine Learning Studio
-    Please run N01-2.ipynb
+    Please run N01-02-MNIST-AzureML_Studio.ipynb
+
+### Azure Machine Learning Studio
+    Please run N01-03-MNIST-Keras.ipynb
 
 ### More Neutrual Network
     In progress...
@@ -28,4 +31,8 @@ I hope you can study AI from zero as me.
 ### Azure Cognitive Service - Face
     Please run N02-2.ipynb.
 
+### Azure Cognitive Service - Speech
+    Please run N02-3.ipynb.
+
+### More Azure Cognitive Service
     In process...
