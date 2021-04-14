@@ -1,4 +1,6 @@
 
 .DS_Store
+.gitignore
 N01/.ipynb_checkpoints/
 N02/.ipynb_checkpoints/
+N02/*.wav
